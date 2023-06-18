@@ -1,7 +1,7 @@
 #EXTMR3U
 
 #EXTINF:-1,Canal 1
-http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 #EXTINF:-1,Canal 2
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1,Canal 3
@@ -15,7 +15,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1,Canal 7
 http://51.15.4.219:25461/live/gt/gt/12.ts
 #EXTINF:-1,Canal 8
-http://51.15.4.219:25461/live/gt/gt/17.ts
+
 #EXTINF:-1,Canal 9
 http://51.15.4.219:25461/live/gt/gt/10.ts
 #EXTINF:-1,Canal 10
@@ -39,7 +39,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1,Canal 19
 https://playout.cdn.cartoonnetwork.com.br:443/playout_03/playlist-720p.m3u8
 #EXTINF:-1,Canal 20
-https://video13.virtualtronics.com/streamer/canal2.m3u8
+
 #EXTINF:-1,Canal 21
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1,Canal 22
