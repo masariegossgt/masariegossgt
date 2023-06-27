@@ -92,7 +92,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e10
 #EXTINF:-1,Canal 45
 https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1,Canal 46
-
+http://51.15.4.219:25461/live/gt/gt/114.ts
 #EXTINF:-1,Canal 47
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Canal 48
