@@ -1,7 +1,7 @@
 #EXTMR3U
 
 #EXTINF:-1,Canal 1
-https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
 #EXTINF:-1,Canal 2
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1,Canal 3
@@ -15,7 +15,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1,Canal 7
 http://51.15.4.219:25461/live/gt/gt/12.ts
 #EXTINF:-1,Canal 8
-http://51.15.4.219:25461/live/gt/gt/115.ts
+http://51.15.4.219:25461/live/gt/gt/17.ts
 #EXTINF:-1,Canal 9
 http://51.15.4.219:25461/live/gt/gt/10.ts
 #EXTINF:-1,Canal 10
@@ -68,60 +68,55 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 #EXTINF:-1,Canal 34
 https://cloudvideo.servers10.com:8081/8106/index.m3u8
-#EXTINF:-1,Canal 35
+#EXTINF:-1 Canal 35
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1,Canal 36
+#EXTINF:-1 Canal 36
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
-#EXTINF:-1,Canal 37
+#EXTINF:-1 Canal 37
 https://estrellanews-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1,Canal 38
+#EXTINF:-1 Canal 38
 https://estrellatv-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1,Canal 39
+#EXTINF:-1 Canal 39
 https://live.seo.tv.bo/live/2SEO.m3u8
-
-#EXTINF:-1,Canal 40
+#EXTINF:-1 Canal 40
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1,Canal 41
+#EXTINF:-1 Canal 41
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-#EXTINF:-1,Canal 42
+#EXTINF:-1 Canal 42
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-#EXTINF:-1,Canal 43
+#EXTINF:-1 Canal 43
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-#EXTINF:-1,Canal 44
+#EXTINF:-1 Canal 44
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
-#EXTINF:-1,Canal 45
+#EXTINF:-1 Canal 45
 https://live.info7.mx/info7/stream.m3u8
-#EXTINF:-1,Canal 46
-http://51.15.4.219:25461/live/gt/gt/114.ts
-#EXTINF:-1,Canal 47
+#EXTINF:-1 Canal 46
+http://51.15.4.219:25461/live/gt/gt/115.ts
+#EXTINF:-1 Canal 47
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Canal 48
+#EXTINF:-1 Canal 48
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1,Canal 49
+#EXTINF:-1 Canal 49
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1,Canal 50
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-#EXTINF:-1,Canal 51
+#EXTINF:-1 Canal 51
 https://live.seo.tv.bo/live/4SEO.m3u8
-#EXTINF:-1,Canal 52
+#EXTINF:-1 Canal 52
+http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 Canal 53
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:-1 Canal 54
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-#EXTINF:-1,Canal 53
+#EXTINF:-1 Canal 55
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1,Canal 54
+#EXTINF:-1 Canal 56
 https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1,Canal 55
+#EXTINF:-1 Canal 57
 https://azxtv.com/hls/stream.m3u8
-#EXTINF:-1,Canal 56
+#EXTINF:-1 Canal 58
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1,Canal 57
-
-#EXTINF:-1,Canal 58
-
-
-#EXTINF:-1,Canal 59
-
+#EXTINF:-1 Canal 59
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 Canal 60
-
-
-
-
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+#EXTINF:-1 Canal 61
+http://51.15.4.219:25461/live/gt/gt/114.ts
